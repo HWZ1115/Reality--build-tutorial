@@ -1,4 +1,4 @@
-# **Manual installation**
+# **installation**
 ### Install the sing-box program
 - **Debian && Ubuntu**
 - ***AMD***
